@@ -7,5 +7,3 @@
 *.log
 __pycache__
 .idea/
-static/
-templates/
